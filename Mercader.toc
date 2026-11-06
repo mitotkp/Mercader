@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Mercader
+## Notes: Contador de oro y experiencia por hora, vende lo gris y repara, y muestra el valor de venta de los objetos y de tus bolsas.
+## Author: maxkss
+## Version: 1.0
+## SavedVariables: MercaderDB
+
+Mercader.lua
